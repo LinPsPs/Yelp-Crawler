@@ -144,6 +144,7 @@ def restaurantMenuCrawler(proxies: str, mode: bool):
             continue
 
 if __name__ == '__main__':
+    ### NY
     print('Yelp Crawler starts... (New York Version)')
     proxy = ' '
     invalidInput = True
