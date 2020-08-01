@@ -15,4 +15,4 @@ This program has a command line interface. You could use it with any shell.
 
 Important: The script contains some open source codes on the internet, since this code is open source as well. I will not include where these codes are from.
 
-Enjoy.
+Enjoy. Have Fun.
